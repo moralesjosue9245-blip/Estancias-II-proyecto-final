@@ -1,6 +1,6 @@
 
 EXAMEN TEORICO / PRACTICO – DEFENSA PERFECTA
-Autor: Miguel Ángel Águila Pérez
+Autor: Josue Morales Cuahutencos
 
 Este proyecto está estructurado para revisión exhaustiva:
 - Código comentado
